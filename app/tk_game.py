@@ -23,7 +23,7 @@ def handle_button_click():
 
     message = "-------------------"
     message += f"\nYou chose: {user_choice}"
-    message += f"\nThe computer chose: {computer_choice}"
+    message += f"\nThe computer chose!: {computer_choice}"
     message += "\n-------------------"
 
     if winning_choice:
