@@ -87,4 +87,4 @@ if __name__ == "__main__":
     else:
         print(TIE_MESSAGE)
 
-    print("Thanks for playing. Please play again!")
+    print("Thanks for playing. Feel free to play again!")
